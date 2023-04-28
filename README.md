@@ -2,7 +2,7 @@
 
 A simple portfolio website made with Vue.
 
-[Website Preview](/public/onrir.me.png)
+![Website Preview](/public/onrir.me.png)
 
 ## Recommended IDE Setup
 
