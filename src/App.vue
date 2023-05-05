@@ -78,6 +78,18 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
       </div>
       <div class="card bg-base-100 shadow-xl image-full">
+        <figure><img
+            src="https://camo.githubusercontent.com/6b213c1ef05a4efc132d204f4b75c559702726e9238d6a03804157fc69b910ea/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313036393330373338343233303539363635382f313130333735303133323938333431383839302f746573742e706e67"
+            alt="Feather" /></figure>
+        <div class="card-body">
+          <h2 class="text-3xl font-bold">Omel</h2>
+          <p>Omel (Onrir's Minimalistic Easy Language) is a minimal file format for creating simple and easy to understand configuration files.</p>
+          <div class="card-actions justify-center">
+            <a target="_blank" href="https://github.com/onrirr/omel" class="btn btn-primary">view Code</a>
+          </div>
+        </div>
+      </div>
+      <div class="card bg-base-100 shadow-xl image-full">
         <figure><img src="/public/volant.png" alt="Feather" /></figure>
         <div class="card-body">
           <h2 class="text-3xl font-bold">Volant.css</h2>
